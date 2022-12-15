@@ -4,7 +4,7 @@ Richard Allen
 
 Data analytics bootcamp
 
-module 2 challenge
+module 2  VBA challenge
 
 15/12/2022
 
